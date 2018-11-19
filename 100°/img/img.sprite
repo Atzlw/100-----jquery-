@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SpriteFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" CssFileName="../images" ImageName="img" IsPhone="false" xmlns="CssSprite">
+  <SpriteList>
+    <Sprite Path="down.png" LocationX="0" LocationY="0" />
+    <Sprite Path="down_h.png" LocationX="0" LocationY="6" />
+    <Sprite Path="up.png" LocationX="0" LocationY="12" />
+    <Sprite Path=").png" LocationX="0" LocationY="18" />
+    <Sprite Path="1.png" LocationX="0" LocationY="32" />
+    <Sprite Path="2.png" LocationX="0" LocationY="46" />
+    <Sprite Path="menu_8.png" LocationX="0" LocationY="60" />
+    <Sprite Path="menu_8bg.png" LocationX="0" LocationY="110" />
+    <Sprite Path="menu_7bg.png" LocationX="0" LocationY="160" />
+    <Sprite Path="menu_6bg.png" LocationX="0" LocationY="210" />
+    <Sprite Path="menu_7.png" LocationX="0" LocationY="260" />
+    <Sprite Path="menu_10bg.png" LocationX="0" LocationY="310" />
+    <Sprite Path="update.png" LocationX="0" LocationY="360" />
+    <Sprite Path="menu_10.png" LocationX="0" LocationY="373" />
+    <Sprite Path="menu_9.png" LocationX="0" LocationY="423" />
+    <Sprite Path="menu_9bg.png" LocationX="0" LocationY="473" />
+    <Sprite Path="menu_6.png" LocationX="0" LocationY="523" />
+    <Sprite Path="menu_2bg.png" LocationX="0" LocationY="573" />
+    <Sprite Path="menu_3.png" LocationX="0" LocationY="623" />
+    <Sprite Path="menu_2.png" LocationX="0" LocationY="673" />
+    <Sprite Path="menu_1.png" LocationX="0" LocationY="723" />
+    <Sprite Path="menu_1bg.png" LocationX="0" LocationY="773" />
+    <Sprite Path="menu_5.png" LocationX="0" LocationY="823" />
+    <Sprite Path="menu_5bg.png" LocationX="0" LocationY="873" />
+    <Sprite Path="menu_4bg.png" LocationX="0" LocationY="923" />
+    <Sprite Path="menu_3bg.png" LocationX="0" LocationY="973" />
+    <Sprite Path="menu_4.png" LocationX="0" LocationY="1023" />
+  </SpriteList>
+</SpriteFile>
